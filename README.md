@@ -22,3 +22,10 @@ För att checka branches vi har:
 ```md
 git branch
 ```
+
+## pull requests
+
+För att få mergea in ändringar från denna branch in till main öppnar vi en pull request. Detta gör vi i fliken pull request.
+
+<img src = "assets/pull_requests.png" width = 400>
+
